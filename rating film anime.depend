@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1764829171 source:d:\bkpp\__pycache__\linkedlist\rating film anime\anime.cpp
+	"anime.h"
+	<iostream>
+
+1764829171 d:\bkpp\__pycache__\linkedlist\rating film anime\anime.h
+	<iostream>
+	<string>
+
